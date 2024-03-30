@@ -30,7 +30,7 @@
       "sources" : [
         {
           "url" : "https://gitlab.gnome.org/bazylevnik0/convolution.git",
-          "commit" : "be9b0f686c0bdf0afad156e0996296aae1459c25",
+          "commit" : "a1cba49e9b97ecf884ae1ea9df3ad2d8c4470f1e",
           "type" : "git"
         }
       ]
